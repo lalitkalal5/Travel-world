@@ -65,7 +65,7 @@ const Home = () => {
         alt="WhatsApp"  
         className="relative z-20 w-10 h-10 mr-0 md:w-20 md:h-20 md:mr-2"
       />
-      Chat with Us
+      Chat
     </a>
       </div>
       {/* Hero Section */}
